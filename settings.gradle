@@ -1,0 +1,3 @@
+rootProject.name = 'Grokaem_Algorithms'
+include 'test'
+
