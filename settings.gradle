@@ -1,3 +1,4 @@
 rootProject.name = 'Grokaem_Algorithms'
 include 'binary_search'
+include 'selection_sort'
 
