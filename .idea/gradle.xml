@@ -10,7 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/binary_search" />
+            <option value="$PROJECT_DIR$/recursion" />
             <option value="$PROJECT_DIR$/selection_sort" />
+            <option value="$PROJECT_DIR$/selection_sort/recursiion" />
           </set>
         </option>
       </GradleProjectSettings>
